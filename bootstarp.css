@@ -1,0 +1,53 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: #E9ECEF;
+}
+
+nav {
+    background-color: #3C4048;
+    height: 70px;
+}
+h1 {
+    padding-top: 10px;
+    padding-left: 10px;
+    color: #F38181 ;
+    font-weight: bold;
+    float: left ;
+}
+ul {
+    list-style-type: none;
+   
+    
+}
+li {
+    float: left;
+    margin-right: 30px;
+    color: #F38181 ;
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-size: x-large;
+    margin-top: 10px;
+}
+
+#satir1 {
+    margin-left: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#satir2 {
+    margin-left: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#satir3 {
+    margin-left: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#hak {
+    padding: 50px;
+    border: 2px;
+    border-style: solid;
+  
+}
